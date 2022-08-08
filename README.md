@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anupamroy777
 - 👀 I’m interested in open source projects
 - 🌱 I’m currently learning C
-- 📫 How to reach me @Gorilla669 on telegram
+
 
 
 <!---
